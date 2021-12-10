@@ -1,0 +1,27 @@
+INFO    2020-06-07 22:33:09,722 [main] base.BaseTest  - OR Properties loaded !!!
+INFO    2020-06-07 22:33:09,723 [main] base.BaseTest  - Config Properties loaded !!!
+INFO    2020-06-07 22:33:13,713 [main] base.BaseTest  - Chrome Browser Launched !!!
+INFO    2020-06-07 22:33:15,546 [main] base.BaseTest  - Navigating to the URL : http://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2020-06-07 22:33:15,718 [main] base.BaseTest  - Database connection established
+INFO    2020-06-07 22:33:18,202 [main] base.BaseTest  - Clicking on an Element: bmlBtn_CSS
+INFO    2020-06-07 22:33:18,289 [main] base.BaseTest  - Finding an Element: addCustBtn_CSS
+INFO    2020-06-07 22:33:21,763 [main] base.BaseTest  - Clicking on an Element: addCustBtn_CSS
+INFO    2020-06-07 22:33:22,507 [main] base.BaseTest  - Typing in an Element: firstName_CSS entered the value as : Rahul
+INFO    2020-06-07 22:33:22,665 [main] base.BaseTest  - Typing in an Element: lastName_CSS entered the value as : Arora
+INFO    2020-06-07 22:33:22,898 [main] base.BaseTest  - Typing in an Element: postCode_CSS entered the value as : A234234
+INFO    2020-06-07 22:33:23,020 [main] base.BaseTest  - Clicking on an Element: addCustomer_CSS
+INFO    2020-06-07 22:33:25,410 [main] base.BaseTest  - Clicking on an Element: addCustBtn_CSS
+INFO    2020-06-07 22:33:25,475 [main] base.BaseTest  - Typing in an Element: firstName_CSS entered the value as : Raman
+INFO    2020-06-07 22:33:25,530 [main] base.BaseTest  - Typing in an Element: lastName_CSS entered the value as : Arora
+INFO    2020-06-07 22:33:25,581 [main] base.BaseTest  - Typing in an Element: postCode_CSS entered the value as : A24324
+INFO    2020-06-07 22:33:25,633 [main] base.BaseTest  - Clicking on an Element: addCustomer_CSS
+INFO    2020-06-07 22:33:28,146 [main] base.BaseTest  - Clicking on an Element: addCustBtn_CSS
+INFO    2020-06-07 22:33:28,236 [main] base.BaseTest  - Typing in an Element: firstName_CSS entered the value as : Cory
+INFO    2020-06-07 22:33:28,320 [main] base.BaseTest  - Typing in an Element: lastName_CSS entered the value as : Paul
+INFO    2020-06-07 22:33:28,432 [main] base.BaseTest  - Typing in an Element: postCode_CSS entered the value as : E34343
+INFO    2020-06-07 22:33:28,484 [main] base.BaseTest  - Clicking on an Element: addCustomer_CSS
+INFO    2020-06-07 22:33:30,911 [main] base.BaseTest  - Clicking on an Element: openAccBtn_CSS
+INFO    2020-06-07 22:33:31,116 [main] base.BaseTest  - Selecting the value from dropdown customer_CSS  selected value as : Rahul Arora
+INFO    2020-06-07 22:33:31,211 [main] base.BaseTest  - Selecting the value from dropdown currency_CSS  selected value as : Rupee
+INFO    2020-06-07 22:33:31,286 [main] base.BaseTest  - Clicking on an Element: process_CSS
+INFO    2020-06-07 22:33:34,315 [main] base.BaseTest  - Test Execution completed !!!
